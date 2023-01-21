@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hola desde GitHub");
         System.out.println("Hola de nuevo IntelliJ");
         System.out.println("otro");
+        System.out.println("prueba conflicto");
 
     }
 }
