@@ -7,6 +7,9 @@ public class Main {
         System.out.println("otro");
         System.out.println("prueba conflicto");
         System.out.println("Conflicto desde IntelliJ");
+        Employee employee = new Employee("emp1",20, 2000d);
+        System.out.println(employee);
+        System.out.println(employee);
 
     }
 }
